@@ -38,7 +38,10 @@
         "gatsby",
         "javascript",
         "react",
-        "hml"
+        "html",
+        "marketing",
+        "imageengine",
+        "strapi"
       ],
       "required": true,
       "default": "gatsby"
